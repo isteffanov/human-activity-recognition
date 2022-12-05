@@ -1,3 +1,10 @@
+
+# we dont need large data files in git
+data/
+
+
+# vvv TEMPLATE vvv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
